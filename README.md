@@ -10,3 +10,4 @@
 <img src="https://user-images.githubusercontent.com/74594510/205568234-63fdb647-0ef6-4868-b0fd-39f3fd711d07.gif" alt="Skeleton UI" />
 
 ## Modal
+<img src="https://user-images.githubusercontent.com/74594510/205571159-5e5db4d9-89b8-43cd-942d-8962a340ef64.gif" alt="Modal" />
