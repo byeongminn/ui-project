@@ -7,5 +7,6 @@
 <br />
 
 ## Skeleton UI
+<img src="https://user-images.githubusercontent.com/74594510/205568234-63fdb647-0ef6-4868-b0fd-39f3fd711d07.gif" alt="Skeleton UI" />
 
 ## Modal
