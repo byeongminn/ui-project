@@ -2,7 +2,10 @@
 
 <ul>
   <li>Skeleton UI</li>
+  <li>Modal</li>
 </ul>
 <br />
 
 ## Skeleton UI
+
+## Modal
