@@ -10,6 +10,9 @@ export default function Home() {
         <li>
           <Link href="/modal">Modal</Link>
         </li>
+        <li>
+          <Link href="/carousel">Carousel</Link>
+        </li>
       </ul>
     </nav>
   );
